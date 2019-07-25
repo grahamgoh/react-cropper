@@ -1,6 +1,6 @@
 {
-  "name": "react-cropper",
-  "version": "1.2.0",
+  "name": "@seek/react-cropper-fork",
+  "version": "1.2.1",
   "description": "Cropper as React components",
   "main": "dist/react-cropper.js",
   "scripts": {
@@ -31,7 +31,7 @@
   },
   "dependencies": {
     "babel-core": "7.0.0-bridge.0",
-    "cropperjs": "v1.0.0-rc.3",
+    "cropperjs": "^1.5.4",
     "prop-types": "^15.5.8"
   },
   "peerDependencies": {
